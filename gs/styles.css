@@ -1,0 +1,31 @@
+button {
+    background: rgba(94, 255, 0, 0.726);
+    width: 100px;
+    height: 100px;
+}
+
+.dys {
+    background-color: rgba(170, 8, 235, 0.712);
+    width: 100px;
+    height: 100px;
+}
+
+.sec {
+    background-color: rgba(112, 0, 216, 0.568);
+    width: 100px;
+    height: 100px;
+}
+
+.cover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+body{
+
+    background-image: url(/img/1648262481_5-kartinkof-club-p-matematik-mem-5.jpg);
+
+}
